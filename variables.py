@@ -1,0 +1,15 @@
+jina="shackro"
+jinashule="emobilis"
+shule_1="uon"
+shule2="ku"
+namba=59
+namba_1=50
+shackro_1=20
+sharook=shackro_1
+print(id(shackro_1))
+print(jina)
+print(jinashule)
+print(namba-namba_1)
+print(namba*namba_1)
+print(namba/namba_1)
+print(namba+namba_1)
